@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Приоритет арифметических операций\Приоритет арифметических операций\bin\Debug\Приоритет арифметических операций.exe.config
+C:\Users\User\Desktop\Project\Приоритет арифметических операций\Приоритет арифметических операций\bin\Debug\Приоритет арифметических операций.exe
+C:\Users\User\Desktop\Project\Приоритет арифметических операций\Приоритет арифметических операций\bin\Debug\Приоритет арифметических операций.pdb
+C:\Users\User\Desktop\Project\Приоритет арифметических операций\Приоритет арифметических операций\obj\Debug\Приоритет арифметических операций.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Приоритет арифметических операций\Приоритет арифметических операций\obj\Debug\Приоритет арифметических операций.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Приоритет арифметических операций\Приоритет арифметических операций\obj\Debug\Приоритет арифметических операций.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Приоритет арифметических операций\Приоритет арифметических операций\obj\Debug\Приоритет арифметических операций.exe
+C:\Users\User\Desktop\Project\Приоритет арифметических операций\Приоритет арифметических операций\obj\Debug\Приоритет арифметических операций.pdb

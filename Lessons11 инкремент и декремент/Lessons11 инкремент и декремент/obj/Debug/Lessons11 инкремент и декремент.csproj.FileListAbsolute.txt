@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lessons11 инкремент и декремент\Lessons11 инкремент и декремент\bin\Debug\Lessons11 инкремент и декремент.exe.config
+C:\Users\User\Desktop\Project\Lessons11 инкремент и декремент\Lessons11 инкремент и декремент\bin\Debug\Lessons11 инкремент и декремент.exe
+C:\Users\User\Desktop\Project\Lessons11 инкремент и декремент\Lessons11 инкремент и декремент\bin\Debug\Lessons11 инкремент и декремент.pdb
+C:\Users\User\Desktop\Project\Lessons11 инкремент и декремент\Lessons11 инкремент и декремент\obj\Debug\Lessons11 инкремент и декремент.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lessons11 инкремент и декремент\Lessons11 инкремент и декремент\obj\Debug\Lessons11 инкремент и декремент.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lessons11 инкремент и декремент\Lessons11 инкремент и декремент\obj\Debug\Lessons11 инкремент и декремент.exe
+C:\Users\User\Desktop\Project\Lessons11 инкремент и декремент\Lessons11 инкремент и декремент\obj\Debug\Lessons11 инкремент и декремент.pdb
+C:\Users\User\Desktop\Project\Lessons11 инкремент и декремент\Lessons11 инкремент и декремент\obj\Debug\Lessons11 инкремент и декремент.csproj.AssemblyReference.cache

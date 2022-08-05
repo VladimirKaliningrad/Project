@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lessons 14, логические операторы\Lessons 14, логические операторы\bin\Debug\Lessons 14, логические операторы.exe.config
+C:\Users\User\Desktop\Project\Lessons 14, логические операторы\Lessons 14, логические операторы\bin\Debug\Lessons 14, логические операторы.exe
+C:\Users\User\Desktop\Project\Lessons 14, логические операторы\Lessons 14, логические операторы\bin\Debug\Lessons 14, логические операторы.pdb
+C:\Users\User\Desktop\Project\Lessons 14, логические операторы\Lessons 14, логические операторы\obj\Debug\Lessons 14, логические операторы.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Lessons 14, логические операторы\Lessons 14, логические операторы\obj\Debug\Lessons 14, логические операторы.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lessons 14, логические операторы\Lessons 14, логические операторы\obj\Debug\Lessons 14, логические операторы.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lessons 14, логические операторы\Lessons 14, логические операторы\obj\Debug\Lessons 14, логические операторы.exe
+C:\Users\User\Desktop\Project\Lessons 14, логические операторы\Lessons 14, логические операторы\obj\Debug\Lessons 14, логические операторы.pdb

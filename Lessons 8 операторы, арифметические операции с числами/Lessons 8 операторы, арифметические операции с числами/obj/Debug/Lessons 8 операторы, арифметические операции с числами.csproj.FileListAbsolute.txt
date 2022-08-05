@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lessons 8 операторы, арифметические операции с числами\Lessons 8 операторы, арифметические операции с числами\bin\Debug\Lessons 8 операторы, арифметические операции с числами.exe.config
+C:\Users\User\Desktop\Project\Lessons 8 операторы, арифметические операции с числами\Lessons 8 операторы, арифметические операции с числами\bin\Debug\Lessons 8 операторы, арифметические операции с числами.exe
+C:\Users\User\Desktop\Project\Lessons 8 операторы, арифметические операции с числами\Lessons 8 операторы, арифметические операции с числами\bin\Debug\Lessons 8 операторы, арифметические операции с числами.pdb
+C:\Users\User\Desktop\Project\Lessons 8 операторы, арифметические операции с числами\Lessons 8 операторы, арифметические операции с числами\obj\Debug\Lessons 8 операторы, арифметические операции с числами.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lessons 8 операторы, арифметические операции с числами\Lessons 8 операторы, арифметические операции с числами\obj\Debug\Lessons 8 операторы, арифметические операции с числами.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lessons 8 операторы, арифметические операции с числами\Lessons 8 операторы, арифметические операции с числами\obj\Debug\Lessons 8 операторы, арифметические операции с числами.exe
+C:\Users\User\Desktop\Project\Lessons 8 операторы, арифметические операции с числами\Lessons 8 операторы, арифметические операции с числами\obj\Debug\Lessons 8 операторы, арифметические операции с числами.pdb
+C:\Users\User\Desktop\Project\Lessons 8 операторы, арифметические операции с числами\Lessons 8 операторы, арифметические операции с числами\obj\Debug\Lessons 8 операторы, арифметические операции с числами.csproj.AssemblyReference.cache

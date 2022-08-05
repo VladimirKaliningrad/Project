@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\условный оператор switch 15 lessons\условный оператор switch 15 lessons\bin\Debug\условный оператор switch 15 lessons.exe.config
+C:\Users\User\Desktop\Project\условный оператор switch 15 lessons\условный оператор switch 15 lessons\bin\Debug\условный оператор switch 15 lessons.exe
+C:\Users\User\Desktop\Project\условный оператор switch 15 lessons\условный оператор switch 15 lessons\bin\Debug\условный оператор switch 15 lessons.pdb
+C:\Users\User\Desktop\Project\условный оператор switch 15 lessons\условный оператор switch 15 lessons\obj\Debug\условный оператор switch 15 lessons.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\условный оператор switch 15 lessons\условный оператор switch 15 lessons\obj\Debug\условный оператор switch 15 lessons.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\условный оператор switch 15 lessons\условный оператор switch 15 lessons\obj\Debug\условный оператор switch 15 lessons.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\условный оператор switch 15 lessons\условный оператор switch 15 lessons\obj\Debug\условный оператор switch 15 lessons.exe
+C:\Users\User\Desktop\Project\условный оператор switch 15 lessons\условный оператор switch 15 lessons\obj\Debug\условный оператор switch 15 lessons.pdb

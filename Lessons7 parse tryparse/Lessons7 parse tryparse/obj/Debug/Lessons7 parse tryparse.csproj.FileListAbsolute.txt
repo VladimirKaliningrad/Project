@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lessons7 parse tryparse\Lessons7 parse tryparse\bin\Debug\Lessons7 parse tryparse.exe.config
+C:\Users\User\Desktop\Project\Lessons7 parse tryparse\Lessons7 parse tryparse\bin\Debug\Lessons7 parse tryparse.exe
+C:\Users\User\Desktop\Project\Lessons7 parse tryparse\Lessons7 parse tryparse\bin\Debug\Lessons7 parse tryparse.pdb
+C:\Users\User\Desktop\Project\Lessons7 parse tryparse\Lessons7 parse tryparse\obj\Debug\Lessons7 parse tryparse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Lessons7 parse tryparse\Lessons7 parse tryparse\obj\Debug\Lessons7 parse tryparse.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lessons7 parse tryparse\Lessons7 parse tryparse\obj\Debug\Lessons7 parse tryparse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lessons7 parse tryparse\Lessons7 parse tryparse\obj\Debug\Lessons7 parse tryparse.exe
+C:\Users\User\Desktop\Project\Lessons7 parse tryparse\Lessons7 parse tryparse\obj\Debug\Lessons7 parse tryparse.pdb

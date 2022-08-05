@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "682e4e31-8a90-4052-a7d3-df64f965f090": {
+      "ProjectGuid": "682e4e31-8a90-4052-a7d3-df64f965f090",
+      "DisplayName": "Lessons11 инкремент и декремент",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

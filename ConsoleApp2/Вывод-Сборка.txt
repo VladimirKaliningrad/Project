@@ -1,0 +1,4 @@
+﻿Повторная сборка начата…
+1>------ Перестроение всех файлов начато: проект: ConsoleApp2, Конфигурация: Debug Any CPU ------
+1>  ConsoleApp2 -> C:\Users\User\Desktop\Project\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+========== Перестроение всех проектов: успешно: 1, с ошибками: 0, пропущено: 0 ==========

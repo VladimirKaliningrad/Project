@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4030befc-cbf3-46e6-b459-1f6a8d6cc1bb": {
+      "ProjectGuid": "4030befc-cbf3-46e6-b459-1f6a8d6cc1bb",
+      "DisplayName": "дз пишем калькулятор",
+      "ColorIndex": 0
+    },
+    "9d0e5759-0e54-46aa-881c-66102a8cbc4e": {
+      "ProjectGuid": "9d0e5759-0e54-46aa-881c-66102a8cbc4e",
+      "DisplayName": "Calc_2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

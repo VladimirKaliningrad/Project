@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc9f310d-d873-46d1-9d46-7160869e8264": {
+      "ProjectGuid": "cc9f310d-d873-46d1-9d46-7160869e8264",
+      "DisplayName": "Приоритет арифметических операций",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "544d24c4-4595-4ba5-85f6-001344389541": {
+      "ProjectGuid": "544d24c4-4595-4ba5-85f6-001344389541",
+      "DisplayName": "несколько проектов в одном решении1",
+      "ColorIndex": 0
+    },
+    "b29d4448-c9d1-4e59-9a8c-5c5a1d90fa65": {
+      "ProjectGuid": "b29d4448-c9d1-4e59-9a8c-5c5a1d90fa65",
+      "DisplayName": "MyProject",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

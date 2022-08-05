@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\bin\Debug\USQLCSharpProject1 создание проекта.dll
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\bin\Debug\USQLCSharpProject1 создание проекта.pdb
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\obj\Debug\USQLCSharpProject1 создание проекта.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\obj\Debug\USQLCSharpProject1 создание проекта.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\obj\Debug\USQLCSharpProject1 создание проекта.csproj.CopyComplete
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\obj\Debug\USQLCSharpProject1 создание проекта.dll
+C:\Users\User\Desktop\Project\USQLCSharpProject1\USQLCSharpProject1 создание проекта\obj\Debug\USQLCSharpProject1 создание проекта.pdb

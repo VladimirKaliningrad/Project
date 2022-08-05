@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Project\учение просто\учение просто\obj\Debug\учение просто.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\учение просто\учение просто\obj\Debug\учение просто.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\учение просто\учение просто\bin\Debug\учение просто.exe.config
+C:\Users\User\Desktop\Project\учение просто\учение просто\bin\Debug\учение просто.exe
+C:\Users\User\Desktop\Project\учение просто\учение просто\bin\Debug\учение просто.pdb
+C:\Users\User\Desktop\Project\учение просто\учение просто\obj\Debug\учение просто.exe
+C:\Users\User\Desktop\Project\учение просто\учение просто\obj\Debug\учение просто.pdb

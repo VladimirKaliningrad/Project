@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lessons 17 do while\Lessons 17 do while\obj\Debug\Lessons 17 do while.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Lessons 17 do while\Lessons 17 do while\obj\Debug\Lessons 17 do while.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lessons 17 do while\Lessons 17 do while\obj\Debug\Lessons 17 do while.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lessons 17 do while\Lessons 17 do while\bin\Debug\Lessons 17 do while.exe.config
+C:\Users\User\Desktop\Project\Lessons 17 do while\Lessons 17 do while\bin\Debug\Lessons 17 do while.exe
+C:\Users\User\Desktop\Project\Lessons 17 do while\Lessons 17 do while\bin\Debug\Lessons 17 do while.pdb
+C:\Users\User\Desktop\Project\Lessons 17 do while\Lessons 17 do while\obj\Debug\Lessons 17 do while.exe
+C:\Users\User\Desktop\Project\Lessons 17 do while\Lessons 17 do while\obj\Debug\Lessons 17 do while.pdb

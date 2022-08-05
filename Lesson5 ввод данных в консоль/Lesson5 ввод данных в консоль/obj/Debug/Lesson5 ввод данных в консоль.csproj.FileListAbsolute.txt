@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lesson5 ввод данных в консоль\Lesson5 ввод данных в консоль\bin\Debug\Lesson5 ввод данных в консоль.exe.config
+C:\Users\User\Desktop\Project\Lesson5 ввод данных в консоль\Lesson5 ввод данных в консоль\bin\Debug\Lesson5 ввод данных в консоль.exe
+C:\Users\User\Desktop\Project\Lesson5 ввод данных в консоль\Lesson5 ввод данных в консоль\bin\Debug\Lesson5 ввод данных в консоль.pdb
+C:\Users\User\Desktop\Project\Lesson5 ввод данных в консоль\Lesson5 ввод данных в консоль\obj\Debug\Lesson5 ввод данных в консоль.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Lesson5 ввод данных в консоль\Lesson5 ввод данных в консоль\obj\Debug\Lesson5 ввод данных в консоль.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lesson5 ввод данных в консоль\Lesson5 ввод данных в консоль\obj\Debug\Lesson5 ввод данных в консоль.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lesson5 ввод данных в консоль\Lesson5 ввод данных в консоль\obj\Debug\Lesson5 ввод данных в консоль.exe
+C:\Users\User\Desktop\Project\Lesson5 ввод данных в консоль\Lesson5 ввод данных в консоль\obj\Debug\Lesson5 ввод данных в консоль.pdb

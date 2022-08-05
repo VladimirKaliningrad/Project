@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lessons 16 While\Lessons 16 While\bin\Debug\Lessons 16 While.exe.config
+C:\Users\User\Desktop\Project\Lessons 16 While\Lessons 16 While\bin\Debug\Lessons 16 While.exe
+C:\Users\User\Desktop\Project\Lessons 16 While\Lessons 16 While\bin\Debug\Lessons 16 While.pdb
+C:\Users\User\Desktop\Project\Lessons 16 While\Lessons 16 While\obj\Debug\Lessons 16 While.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Lessons 16 While\Lessons 16 While\obj\Debug\Lessons 16 While.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lessons 16 While\Lessons 16 While\obj\Debug\Lessons 16 While.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lessons 16 While\Lessons 16 While\obj\Debug\Lessons 16 While.exe
+C:\Users\User\Desktop\Project\Lessons 16 While\Lessons 16 While\obj\Debug\Lessons 16 While.pdb

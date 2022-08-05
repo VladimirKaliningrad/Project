@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eede494b-cdeb-4d8f-af81-db49ae6cc67f": {
+      "ProjectGuid": "eede494b-cdeb-4d8f-af81-db49ae6cc67f",
+      "DisplayName": "несколько проектов в одном решении",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

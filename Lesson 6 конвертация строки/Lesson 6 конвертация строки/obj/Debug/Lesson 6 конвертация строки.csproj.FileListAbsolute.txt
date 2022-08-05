@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lesson 6 конвертация строки\Lesson 6 конвертация строки\bin\Debug\Lesson 6 конвертация строки.exe.config
+C:\Users\User\Desktop\Project\Lesson 6 конвертация строки\Lesson 6 конвертация строки\bin\Debug\Lesson 6 конвертация строки.exe
+C:\Users\User\Desktop\Project\Lesson 6 конвертация строки\Lesson 6 конвертация строки\bin\Debug\Lesson 6 конвертация строки.pdb
+C:\Users\User\Desktop\Project\Lesson 6 конвертация строки\Lesson 6 конвертация строки\obj\Debug\Lesson 6 конвертация строки.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Lesson 6 конвертация строки\Lesson 6 конвертация строки\obj\Debug\Lesson 6 конвертация строки.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lesson 6 конвертация строки\Lesson 6 конвертация строки\obj\Debug\Lesson 6 конвертация строки.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lesson 6 конвертация строки\Lesson 6 конвертация строки\obj\Debug\Lesson 6 конвертация строки.exe
+C:\Users\User\Desktop\Project\Lesson 6 конвертация строки\Lesson 6 конвертация строки\obj\Debug\Lesson 6 конвертация строки.pdb

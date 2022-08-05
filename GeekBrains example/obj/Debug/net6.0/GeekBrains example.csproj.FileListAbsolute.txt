@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Project\GeekBrains example\obj\Debug\net6.0\GeekBrains example.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\GeekBrains example\obj\Debug\net6.0\GeekBrains example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Project\GeekBrains example\obj\Debug\net6.0\GeekBrains example.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project\GeekBrains example\obj\Debug\net6.0\GeekBrains example.AssemblyInfo.cs
+C:\Users\User\Desktop\Project\GeekBrains example\obj\Debug\net6.0\GeekBrains example.csproj.CoreCompileInputs.cache

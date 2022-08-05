@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7992623a-4531-418d-b2f5-d73c7e5821f9": {
+      "ProjectGuid": "7992623a-4531-418d-b2f5-d73c7e5821f9",
+      "DisplayName": "выписка из урока конвертер валют",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

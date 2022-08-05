@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\дз пишем калькулятор\дз пишем калькулятор\bin\Debug\дз пишем калькулятор.exe.config
+C:\Users\User\Desktop\Project\дз пишем калькулятор\дз пишем калькулятор\bin\Debug\дз пишем калькулятор.exe
+C:\Users\User\Desktop\Project\дз пишем калькулятор\дз пишем калькулятор\bin\Debug\дз пишем калькулятор.pdb
+C:\Users\User\Desktop\Project\дз пишем калькулятор\дз пишем калькулятор\obj\Debug\дз пишем калькулятор.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\дз пишем калькулятор\дз пишем калькулятор\obj\Debug\дз пишем калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\дз пишем калькулятор\дз пишем калькулятор\obj\Debug\дз пишем калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\дз пишем калькулятор\дз пишем калькулятор\obj\Debug\дз пишем калькулятор.exe
+C:\Users\User\Desktop\Project\дз пишем калькулятор\дз пишем калькулятор\obj\Debug\дз пишем калькулятор.pdb

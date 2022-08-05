@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\выписка из урока конвертер валют\выписка из урока конвертер валют\bin\Debug\выписка из урока конвертер валют.exe.config
+C:\Users\User\Desktop\Project\выписка из урока конвертер валют\выписка из урока конвертер валют\bin\Debug\выписка из урока конвертер валют.exe
+C:\Users\User\Desktop\Project\выписка из урока конвертер валют\выписка из урока конвертер валют\bin\Debug\выписка из урока конвертер валют.pdb
+C:\Users\User\Desktop\Project\выписка из урока конвертер валют\выписка из урока конвертер валют\obj\Debug\выписка из урока конвертер валют.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\выписка из урока конвертер валют\выписка из урока конвертер валют\obj\Debug\выписка из урока конвертер валют.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\выписка из урока конвертер валют\выписка из урока конвертер валют\obj\Debug\выписка из урока конвертер валют.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\выписка из урока конвертер валют\выписка из урока конвертер валют\obj\Debug\выписка из урока конвертер валют.exe
+C:\Users\User\Desktop\Project\выписка из урока конвертер валют\выписка из урока конвертер валют\obj\Debug\выписка из урока конвертер валют.pdb

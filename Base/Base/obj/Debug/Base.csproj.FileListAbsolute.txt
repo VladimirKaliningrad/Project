@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Base\Base\bin\Debug\Base.exe.config
+C:\Users\User\Desktop\Project\Base\Base\bin\Debug\Base.exe
+C:\Users\User\Desktop\Project\Base\Base\bin\Debug\Base.pdb
+C:\Users\User\Desktop\Project\Base\Base\obj\Debug\Base.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Base\Base\obj\Debug\Base.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Base\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Base\Base\obj\Debug\Base.exe
+C:\Users\User\Desktop\Project\Base\Base\obj\Debug\Base.pdb

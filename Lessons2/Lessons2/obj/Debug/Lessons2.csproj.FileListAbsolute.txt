@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Project\Lessons2\Lessons2\obj\Debug\Lessons2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Lessons2\Lessons2\obj\Debug\Lessons2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Project\Lessons2\Lessons2\obj\Debug\Lessons2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Lessons2\Lessons2\bin\Debug\Lessons2.exe.config
+C:\Users\User\Desktop\Project\Lessons2\Lessons2\bin\Debug\Lessons2.exe
+C:\Users\User\Desktop\Project\Lessons2\Lessons2\bin\Debug\Lessons2.pdb
+C:\Users\User\Desktop\Project\Lessons2\Lessons2\obj\Debug\Lessons2.exe
+C:\Users\User\Desktop\Project\Lessons2\Lessons2\obj\Debug\Lessons2.pdb
